@@ -1,1 +1,1 @@
-BitchLand AllSkillsToMaxMod
+Bitch Land set All Stats (Hunger,Energy,Favor,WorkXp,SexXP,ArmyXP,Toilet) to max mod
