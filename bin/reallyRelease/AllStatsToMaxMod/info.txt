@@ -1,3 +1,0 @@
-Title:Set all stats (workxp,armyxp,sexxp,hunger,energy,favor) to maximum
-Description:set all stats (workxp,armyxp,sexxp,hunger,energy,favor) to maximum
-Enabled:True
